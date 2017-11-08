@@ -1,0 +1,5 @@
+<map id="axi_dmac_init" name="axi_dmac_init">
+<area shape="rect" id="node1" title="axi_dmac_init" alt="" coords="220,31,329,57"/>
+<area shape="rect" id="node2" href="$ad9208_2src_2main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="61,5,116,32"/>
+<area shape="rect" id="node3" href="$spi__engine_8h.html#ac7850b1f4baa81ec0ef927695cde646f" title="Initialize the SPI engine&#39;s offload module." alt="" coords="5,56,172,83"/>
+</map>
